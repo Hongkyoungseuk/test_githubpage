@@ -5,3 +5,5 @@
 3. Build and deployment > Branch 에 해당 디랙토리 설정 후 save
 4. 상위로 돌아가 Actions에서 빌드 되는지 확인
 
+
+사용링크 (https://hongkyoungseuk.github.io/test_githubpage/)
