@@ -1,3 +1,6 @@
+해당 내용은 사용자(내가) 마음대로 작성한 참고용 내용입니다.
+되도록 공식문서에서 배워봅시다. GitHub Pages 링크(https://docs.github.com/ko/pages)
+
 # test_githubpage 실험용
 ### github사용법
 1. Settings > pages 에 들어간다
